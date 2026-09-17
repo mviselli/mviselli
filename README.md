@@ -1,40 +1,53 @@
-# About Me
+<div align="center">
 
-Currently mastering **Java** and **Python**.
+# Michele Viselli
 
-- **Current Focus:** Machine Learning and NLP
-- **Learning:** Concurrency in Java and NLP optimization.
+Computer Science student · Java & Python · Machine Learning and NLP
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-mviselli-181717?style=flat-square&logo=github)](https://github.com/mviselli)
 
-### Tech Stack
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| **AI / ML** | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=ultralytics&logoColor=black) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) |
+</div>
 
 ---
 
-### Selected Public Projects
+## About
 
-#### - [The Knife](https://github.com/sonoFrangu/theknife)
-> University project (2026): TheKnife - Interdisciplinary Laboratory Project B.
-`Java` • `JavaFX` • `CSS`
+- Currently focused on **Machine Learning** and **NLP**
+- Learning **Java concurrency** and **NLP optimization**
+- Interested in clean, well-documented software that solves practical problems
 
-#### - [DrugDose](https://github.com/Toschi-Elia/DrugDose)
-> University project (2026): Android app, drug dosage calculator.
-`Kotlin` • `Android Studio` • `XML`
+## Tech Stack
 
-#### - [Wesad Stress Detection](https://github.com/mviselli/wesad-stress-detection)
-> University project (2026): Stress detection
-`Jupyter Notebook` • `Scikit-learn` • `Python`
+**Languages**
 
-#### - [NLP Classifier](https://github.com/devvise/nlp-classifier-project)
-> Developed for the UNICA masterpiece (2024). Advanced text classification logic.
-`Jupyter Notebook` • `Scikit-learn` • `NLP`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
-#### - [Roboarm Project](https://github.com/devvise/roboarm-project)
-> School project (2022): Focused on hardware-software integration.
-`Python` • `C++` • `Robotics`
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=ultralytics&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Tools**
+
+![JavaFX](https://img.shields.io/badge/JavaFX-3873B2?style=flat-square&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+## Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [**RamWatch**](https://github.com/mviselli/ramwatch) | Desktop utility for real-time RAM monitoring, with process tracking, history chart, threshold alerts and CSV export. | `Java 21` `JavaFX` `OSHI` `Maven` |
+| [**WESAD Stress Detection**](https://github.com/mviselli/wesad-stress-detection) | ML pipeline for stress recognition from physiological signals (WESAD), evaluated with Leave-One-Subject-Out. | `Python` `scikit-learn` `Jupyter` |
+| [**YOLO Privacy Blur**](https://github.com/mviselli/yolo-privacy-blur) | Computer-vision pipeline that detects people in videos with YOLO11 and blurs them for privacy-preserving preprocessing. | `Python` `Ultralytics` `OpenCV` |
+| [**The Knife**](https://github.com/sonoFrangu/theknife) | University project (2026) — Interdisciplinary Laboratory B. | `Java` `JavaFX` `CSS` |
+| [**DrugDose**](https://github.com/Toschi-Elia/DrugDose) | University project (2026) — Android app for guided drug dosage calculation with patient management and Firebase integration. | `Kotlin` `Android` `Firebase` |
+| [**NLP Classifier**](https://github.com/mviselli/nlp-classifier-project) | Text classification project developed for the UNICA masterpiece (2024). | `Python` `scikit-learn` `NLP` |
+| [**Roboarm**](https://github.com/mviselli/roboarm-project) | School project (2022) — hardware/software integration for a robotic arm. | `Python` `C++` `Robotics` |
