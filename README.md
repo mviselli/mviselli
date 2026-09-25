@@ -45,7 +45,6 @@ Computer Science student · Java & Python · Machine Learning and NLP
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**RamWatch**](https://github.com/mviselli/ramwatch) | Desktop utility for real-time RAM monitoring, with process tracking, history chart, threshold alerts and CSV export. | `Java 21` `JavaFX` `OSHI` `Maven` |
 | [**WESAD Stress Detection**](https://github.com/mviselli/wesad-stress-detection) | ML pipeline for stress recognition from physiological signals (WESAD), evaluated with Leave-One-Subject-Out. | `Python` `scikit-learn` `Jupyter` |
 | [**YOLO Privacy Blur**](https://github.com/mviselli/yolo-privacy-blur) | Computer-vision pipeline that detects people in videos with YOLO11 and blurs them for privacy-preserving preprocessing. | `Python` `Ultralytics` `OpenCV` |
 | [**The Knife**](https://github.com/sonoFrangu/theknife) | University project (2026) — Interdisciplinary Laboratory B. | `Java` `JavaFX` `PostgreSQL` `CSS` |
