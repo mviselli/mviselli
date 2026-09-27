@@ -14,7 +14,7 @@ Computer Science student · Java & Python · Machine Learning and NLP
 
 - Currently focused on **Machine Learning** and **NLP**
 - Learning **Java concurrency** and **NLP optimization**
-- Interested in clean, well-documented software that solves practical problems
+- Enjoy creating projects and experimenting with AI
 
 ## Tech Stack
 
